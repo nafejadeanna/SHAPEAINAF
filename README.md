@@ -1,0 +1,2 @@
+# SHAPEAINAF
+Project for SHAPEAI BOOTCAMP
